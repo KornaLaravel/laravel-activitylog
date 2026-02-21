@@ -2,6 +2,12 @@
 
 All notable changes to `spatie/laravel-activitylog` will be documented in this file
 
+## 4.12.0 - 2026-02-21
+
+### What's Changed
+
+- Add Laravel 13 support
+
 ## 4.11.0 - 2026-01-31
 
 ### What's Changed
